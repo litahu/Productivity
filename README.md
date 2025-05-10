@@ -25,6 +25,11 @@ Actualmente en fase de desarrollo inicial. Se aceptan contribuciones, sugerencia
 ![star](habits.gif)  
 *Image 1. Gestionador de hábitos*
 
+<p align="center">
+  <img src="habits.gif" alt="Gestionador de hábitos">
+</p>
+
+
 
 📌 **¿Listo para optimizar tu rutina y hacer que tu tiempo cuente?** ¡Explora, colabora y transforma tu día con hábitos efectivos! 💡⏳  
 
