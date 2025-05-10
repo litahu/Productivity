@@ -24,7 +24,7 @@ Actualmente en fase de desarrollo inicial. Se aceptan contribuciones, sugerencia
 
 <p align="center">
   <img src="habits.gif" alt="Gestionador de hábitos">
-  *Image 1. Gestionador de hábitos*
+  <*Image 1. Gestionador de hábitos*>
 </p>
 
 
