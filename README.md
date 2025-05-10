@@ -20,9 +20,9 @@ La metodología *Make Time*, creada por Jake Knapp y John Zeratsky, se centra en
 ## 🚧 Estado del proyecto  
 Actualmente en fase de desarrollo inicial. Se aceptan contribuciones, sugerencias y feedback para mejorar la funcionalidad y diseño del sistema.  
 
-<br>
-![star](productivity/habits.gif)
-Image 1. Gestionador de hábitos <br>
+## Vista previa del Habit Tracker
+![star](productivity/habits.gif)  
+*Image 1. Gestionador de hábitos*
 
 
 📌 **¿Listo para optimizar tu rutina y hacer que tu tiempo cuente?** ¡Explora, colabora y transforma tu día con hábitos efectivos! 💡⏳  
