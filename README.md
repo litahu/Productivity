@@ -22,7 +22,7 @@ Actualmente en fase de desarrollo inicial. Se aceptan contribuciones, sugerencia
 
 ## Vista previa del Habit Tracker
 
-![star](productivity/habits.gif)  
+![star](habits.gif)  
 *Image 1. Gestionador de hábitos*
 
 
