@@ -22,11 +22,9 @@ Actualmente en fase de desarrollo inicial. Se aceptan contribuciones, sugerencia
 
 ## Vista previa del Habit Tracker
 
-![star](habits.gif)  
-*Image 1. Gestionador de hábitos*
-
 <p align="center">
   <img src="habits.gif" alt="Gestionador de hábitos">
+  *Image 1. Gestionador de hábitos*
 </p>
 
 
